@@ -10,7 +10,7 @@ To Be announced!
 
 ## About Me
 
-Introduce yourself and provide a brief overview of your background, interests, and expertise. Let readers know why you are passionate about the topics you write about.
+My name is Tobias but often go under the handle “Tobu”, I am currently a penetration tester these days and have been doing that for a solid amount of time now. Prior to doing penetration testing, I was working as a network security consultant. On my free time, I help non-profit organizations such as LAN parties by designing infrastructure that will keep running during intense gaming sessions.
 
 ## Get in Touch
 
